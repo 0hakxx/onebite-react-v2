@@ -1,0 +1,17 @@
+{
+  "_comment": "scripts 태그를 통해 npm run start 명령으로 자동 실행 가능",
+  "_comment": "   → 'node src/index.js'를 터미널에 직접 입력할 필요 없음",
+  "_comment": "   → npm 스크립트가 대신 처리해줌 (간편함 강조)",
+  "_comment": "",
+  "name": "section03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "_comment": "즉 현재 start : 부분의 경로가 java의 static void main() 과 같음"
+}

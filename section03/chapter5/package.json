@@ -1,0 +1,17 @@
+{
+  "name": "section03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "_comment": "현재 dependencies(의존성)을 보면 설치된 라이브러리 확인 가능함",
+  "dependencies": {
+    "randomcolor": "^0.6.2"
+  }
+}
