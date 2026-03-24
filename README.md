@@ -62,19 +62,19 @@
 
 ### 5섹션 "React.js 입문"
 
-| **챕터번호** | **챕터이름**                      | **코드**                                 |
-| ------------ | --------------------------------- |----------------------------------------|
-| 5.1          | 실습 준비하기                     | [chapter1.js](./section05/chapter1/)   |
-| 5.2          | React 컴포넌트                    | [chapter2.js](./section05/chapter2/)   |
-| 5.3          | JSX - UI 표현하기                 | [chapter3.js](./section05/chapter3/)   |
-| 5.4          | Props : 컴포넌트에 값 전달하기    | [chapter4.js](./section05/chapter4/)   |
-| 5.5          | 이벤트 처리하기                   | [chapter5.js](./section05/chapter5/)   |
-| 5.6          | State - 상태 관리하기             | [chapter6.js](./section05/chapter6/)   |
-| 5.7          | State와 Props                     | [chapter7.js](./section05/chapter7/)   |
-| 5.8          | State로 사용자 입력 관리하기 1    | [chapter8.js](./section05/chapter8/)   |
-| 5.9          | State로 사용자 입력 관리하기 2    | [chapter9.js](./section05/chapter9/)   |
-| 5.10         | useRef - 컴포넌트의 변수 생성하기 | [chapter10.js](./section05/chapter10/) |
-| 5.11         | React Hooks                       | [chapter11.js](./section05/chapter11/) |
+| **챕터번호** | **챕터이름**                      | **코드**                            |
+| ------------ | --------------------------------- |-----------------------------------|
+| 5.1          | 실습 준비하기                     | [chapter1](./section05/chapter1/) |
+| 5.2          | React 컴포넌트                    | [chapter2](./section05/chapter2/) |
+| 5.3          | JSX - UI 표현하기                 | [chapter3](./section05/chapter3/) |
+| 5.4          | Props : 컴포넌트에 값 전달하기    | [chapter4](./section05/chapter4/) |
+| 5.5          | 이벤트 처리하기                   | [chapter5](./section05/chapter5/) |
+| 5.6          | State - 상태 관리하기             | [chapter6](./section05/chapter6/) |
+| 5.7          | State와 Props                     | [chapter7](./section05/chapter7/) |
+| 5.8          | State로 사용자 입력 관리하기 1    | [chapter8](./section05/chapter8/) |
+| 5.9          | State로 사용자 입력 관리하기 2    | [chapter9](./section05/chapter9/) |
+| 5.10         | useRef - 컴포넌트의 변수 생성하기 | [chapter10](./section05/chapter10/) |
+| 5.11         | React Hooks                       | [chapter11](./section05/chapter11/) |
 
 ### 6섹션 "프로젝트1. 카운터 앱"
 
